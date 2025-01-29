@@ -1,0 +1,8 @@
+{
+  "name": "grandcentral",
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "nunjucks": "^3.2.4"
+  }
+}
